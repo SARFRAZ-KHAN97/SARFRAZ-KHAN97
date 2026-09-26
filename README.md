@@ -22,9 +22,9 @@ Full-Stack Developer (Backend-Focused) building scalable SaaS platforms and AI-d
 ---
 
 ## 📌 Featured Projects
+- SkillTrace | AI-Powered Interview & Assessment Platform
 - Autonomous Debugging & Self-Healing Platform  
-- Institute Management SaaS Platform  
-- Movie Streaming Web Platform  
+- Institute Management SaaS Platform    
 
 ---
 
